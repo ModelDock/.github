@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[https://raw.githubusercontent.com/modeldock/ModelDock/main/static/logo.svg](https://github.com/organizations/ModelDock/settings/profile)" width="100" height="100" alt="ModelDock Logo" />
+  <img src="https://avatars.githubusercontent.com/u/354997646?s=400&u=aa25fbce8c2b5506f31a9188015fbd41965f2db1&v=4" width="100" height="100" alt="ModelDock Logo" />
 
   # ModelDock
   
